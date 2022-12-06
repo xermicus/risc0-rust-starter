@@ -1,3 +1,5 @@
+Workshop template implementing a "PW contains punctation" POC
+
 # RISC Zero Rust Starter Template
 
 Welcome to the RISC Zero Rust Starter Template! This template is intended to give you a starting point for building a project using the RISC Zero zkVM. Throughout the code are comments labelled `TODO` in places where we expect projects will need to modify the code.
